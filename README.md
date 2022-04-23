@@ -11,15 +11,7 @@
 The objective of this project is to define and train a *Deep Convolutional Generative Adversarial Network* (DCGAN) on a dataset of faces to generate new images of faces that look as realistic as possible.
 
 Some sample results is show bellow.
-```
-# Epoch 0
-```
-![image](https://user-images.githubusercontent.com/54601061/164797975-602f7184-3a12-4f5a-be9d-4156d596a997.png)
-
-```
-# Epoch 99
-```
-![image](https://user-images.githubusercontent.com/54601061/164798365-f21c9fe1-e0c3-46f1-bbc8-e115c8bf13e5.png)
+![image](https://user-images.githubusercontent.com/54601061/164916283-6a67d652-9cac-4ffe-8b9d-7644a8178596.png)
 
 ## Installation <a name="installation"></a>
 
